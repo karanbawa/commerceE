@@ -12,7 +12,7 @@ class Pages500 extends Component {
       <React.Fragment>
         <div className="account-pages my-5 pt-5">
           <MetaTags>
-            <title>500 Error Page | Skote - React Admin & Dashboard Template</title>
+            <title>500 Error Page | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container>
             <Row>

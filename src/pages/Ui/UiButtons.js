@@ -34,7 +34,7 @@ class UiButtons extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Buttons | Skote - React Admin & Dashboard Template</title>
+            <title>Buttons | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="UI Elements" breadcrumbItem="Buttons" />

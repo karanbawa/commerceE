@@ -63,7 +63,7 @@ class IconFontawesome extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Font Awesome | Skote - React Admin & Dashboard Template</title>
+            <title>Font Awesome | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="Icons" breadcrumbItem="Font awesome" />

@@ -29,7 +29,7 @@ class ChartistChart extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Chartist Chart | Skote - React Admin & Dashboard Template</title>
+            <title>Chartist Chart | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="Charts" breadcrumbItem="Chartist Chart" />

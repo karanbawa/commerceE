@@ -89,7 +89,7 @@ class EcommerceCart extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Cart | Skote - React Admin & Dashboard Template</title>
+            <title>Cart | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             <Breadcrumbs title="Ecommerce" breadcrumbItem="Cart" />

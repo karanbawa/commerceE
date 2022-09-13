@@ -30,7 +30,7 @@ class ContactsGrid extends Component {
       <React.Fragment>
         <div className="page-content">
         <MetaTags>
-            <title>User Grid | Skote - Responsive Bootstrap 5 Admin Dashboard</title>
+            <title>User Grid | Scrollit - Responsive Bootstrap 5 Admin Dashboard</title>
           </MetaTags>
           <Container fluid>
             {/* Render Breadcrumbs */}

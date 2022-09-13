@@ -18,7 +18,7 @@ export default class Register2 extends Component {
       <React.Fragment>
         <div>
           <MetaTags>
-            <title>Register 2 | Skote - React Admin & Dashboard Template</title>
+            <title>Register 2 | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid className="p-0">
             <Row className="g-0">
@@ -48,7 +48,7 @@ export default class Register2 extends Component {
                         <div>
                           <h5 className="text-primary">Register account</h5>
                           <p className="text-muted">
-                            Get your free Skote account now.
+                            Get your free Scrollit account now.
                           </p>
                         </div>
 
@@ -152,7 +152,7 @@ export default class Register2 extends Component {
                                 </div>
                                 <div>
                                   <p className="mb-0">
-                                    By registering you agree to the Skote
+                                    By registering you agree to the Scrollit
                                     <Link to="#" className="text-primary">
                                       Terms of Use
                                     </Link>
@@ -222,9 +222,9 @@ export default class Register2 extends Component {
                       <div className="mt-4 mt-md-5 text-center">
                         <p className="mb-0">
                           © {new Date().getFullYear()}
-                          Skote. Crafted with{" "}
+                          Scrollit. Crafted with{" "}
                           <i className="mdi mdi-heart text-danger"></i> by
-                          Themesbrand
+                          Scrollit
                         </p>
                       </div>
                     </div>

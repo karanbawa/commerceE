@@ -57,7 +57,7 @@ class CryptoWallet extends Component {
         <div className="page-content">
           .
           <MetaTags>
-            <title>Buy/Sell | Skote - React Admin & Dashboard Template</title>
+            <title>Buy/Sell | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             {/* Render Breadcrumb */}

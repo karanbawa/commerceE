@@ -14,7 +14,7 @@ export default class ConfirmMail2 extends Component {
       <React.Fragment>
         <div>
           <MetaTags>
-            <title>Confirm Mail 2 | Skote - React Admin & Dashboard Template</title>
+            <title>Confirm Mail 2 | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid className="p-0">
             <Row className="row g-0">
@@ -65,9 +65,9 @@ export default class ConfirmMail2 extends Component {
 
                       <div className="mt-4 mt-md-5 text-center">
                         <p className="mb-0">
-                          © {new Date().getFullYear()} Skote. Crafted with{" "}
+                          © {new Date().getFullYear()} Scrollit. Crafted with{" "}
                           <i className="mdi mdi-heart text-danger"></i> by
-                          Themesbrand
+                          Scrollit
                         </p>
                       </div>
                     </div>

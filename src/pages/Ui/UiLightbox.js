@@ -75,7 +75,7 @@ class UiLightbox extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Lightbox | Skote - React Admin & Dashboard Template</title>
+            <title>Lightbox | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="UI Elements" breadcrumbItem="Lightbox" />
@@ -162,7 +162,7 @@ class UiLightbox extends Component {
                           <img
                             onClick={() => this.setState({ isFits: true })}
                             className="img-fluid"
-                            alt="Skote"
+                            alt="Scrollit"
                             src={img2}
                             width="145"
                           />

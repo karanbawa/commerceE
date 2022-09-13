@@ -17,7 +17,7 @@ class IconDripicons extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Dripicons | Skote - React Admin & Dashboard Template</title>
+            <title>Dripicons | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             <Breadcrumbs title="Icons" breadcrumbItem="Dripicons" />

@@ -53,7 +53,7 @@ class FormUpload extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Form File Upload | Skote - React Admin & Dashboard Template</title>
+            <title>Form File Upload | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="Forms" breadcrumbItem="Form File Upload" />

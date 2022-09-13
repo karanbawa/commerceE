@@ -67,7 +67,7 @@ class UiOffCanvas extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>OffCanvas | Skote - React Admin & Dashboard Template</title>
+            <title>OffCanvas | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <div className="container-fluid">
             <Breadcrumbs title="Ui Elements" breadcrumbItem="OffCanvas" />

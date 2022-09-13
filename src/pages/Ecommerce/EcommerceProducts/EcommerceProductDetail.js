@@ -75,7 +75,7 @@ class EcommerceProductDetail extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Products Details | Skote - React Admin & Dashboard Template</title>
+            <title>Products Details | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             <Breadcrumbs title="Ecommerce" breadcrumbItem="Product Details" />

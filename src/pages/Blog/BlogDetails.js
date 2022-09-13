@@ -26,7 +26,7 @@ export default class BlogDetails extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Blog Details | Skote - React Admin & Dashboard Template</title>
+            <title>Blog Details | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             <Breadcrumbs title="Blog" breadcrumbItem="Blog Details" />

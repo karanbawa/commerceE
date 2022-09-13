@@ -155,7 +155,7 @@ class DatatableTables extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Data Tables | Skote - React Admin & Dashboard Template</title>
+            <title>Data Tables | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <div className="container-fluid">
             <Breadcrumbs title="Tables" breadcrumbItem="Data Tables" />

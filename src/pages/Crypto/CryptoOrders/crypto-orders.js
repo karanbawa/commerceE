@@ -135,7 +135,7 @@ class CryptoOrders extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Orders | Skote - React Admin & Dashboard Template</title>
+            <title>Orders | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             {/* Render Breadcrumb */}

@@ -25,7 +25,7 @@ class UiBreadcrumb extends Component {
             <React.Fragment>
                 <div className="page-content">
                     <MetaTags>
-                        <title>Breadcrumb | Skote - React Admin & Dashboard Template</title>
+                        <title>Breadcrumb | Scrollit - React Admin & Dashboard Template</title>
                     </MetaTags>
 
                     <Container fluid={true}>

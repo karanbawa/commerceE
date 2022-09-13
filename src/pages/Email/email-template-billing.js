@@ -18,7 +18,7 @@ class EmailTemplateBilling extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Billing Email | Skote - React Admin & Dashboard Template</title>
+            <title>Billing Email | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             <Breadcrumbs
@@ -182,7 +182,7 @@ class EmailTemplateBilling extends Component {
                                             Thanks for using{" "}
                                             <b style={{ fontWeight: "600" }}>
                                               {" "}
-                                              SKOTE
+                                              Scrollit
                                             </b>
                                             .
                                           </h2>
@@ -590,7 +590,7 @@ class EmailTemplateBilling extends Component {
                                           align="center"
                                           valign="top"
                                         >
-                                          Skote Inc. 2896 Howell Rd,
+                                          Scrollit Inc. 2896 Howell Rd,
                                           Russellville, AR, 72823
                                         </td>
                                       </tr>
@@ -618,7 +618,7 @@ class EmailTemplateBilling extends Component {
                                           }}
                                           valign="top"
                                         >
-                                          © {new Date().getFullYear()} Skote
+                                          © {new Date().getFullYear()} Scrollit
                                         </td>
                                       </tr>
                                     </tbody>

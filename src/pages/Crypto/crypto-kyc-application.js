@@ -93,7 +93,7 @@ class CryptoWallet extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>KYC Application | Skote - React Admin & Dashboard Template</title>
+            <title>KYC Application | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             {/* Render Breadcrumb */}

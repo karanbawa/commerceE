@@ -27,7 +27,7 @@ class Dashboard extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Apex Charts | Skote - React Admin & Dashboard Template</title>
+            <title>Apex Charts | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <div className="container-fluid">
             <Breadcrumbs title="Charts" breadcrumbItem="Apex Charts" />

@@ -85,7 +85,7 @@ class DragDropTables extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Drag & Drop Table | Skote - React Admin & Dashboard Template</title>
+            <title>Drag & Drop Table | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <div className="container-fluid">
             <Breadcrumbs title="Tables" breadcrumbItem="Drag & Drop Table" />

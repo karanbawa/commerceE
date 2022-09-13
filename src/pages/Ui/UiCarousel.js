@@ -30,7 +30,7 @@ class UiCarousel extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Carousel | Skote - React Admin & Dashboard Template</title>
+            <title>Carousel | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="UI Elements" breadcrumbItem="Carousel" />

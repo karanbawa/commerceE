@@ -264,7 +264,7 @@ class EcommerceCustomers extends Component {
         />
         <div className="page-content">
           <MetaTags>
-            <title>Customers | Skote - React Admin & Dashboard Template</title>
+            <title>Customers | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             <Breadcrumbs title="Ecommerce" breadcrumbItem="Customers" />

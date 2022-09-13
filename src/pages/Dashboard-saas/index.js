@@ -53,7 +53,7 @@ class Dashboard extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Saas Dashboard | Skote - React Admin & Dashboard Template</title>
+            <title>Saas Dashboard | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             {/* Render Breadcrumb */}

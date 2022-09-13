@@ -46,7 +46,7 @@ class FormElements extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Form Elements | Skote - React Admin & Dashboard Template</title>
+            <title>Form Elements | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="Forms" breadcrumbItem="Form Elements" />

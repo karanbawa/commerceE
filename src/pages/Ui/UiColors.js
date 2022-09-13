@@ -16,7 +16,7 @@ class UiColors extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Colors | Skote - React Admin & Dashboard Template</title>
+            <title>Colors | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="UI Elements" breadcrumbItem="Colors" />

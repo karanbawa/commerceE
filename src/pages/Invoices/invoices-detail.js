@@ -38,7 +38,7 @@ class InvoiceDetail extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Invoice Detail | Skote - React Admin & Dashboard Template</title>
+            <title>Invoice Detail | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             {/* Render Breadcrumbs */}

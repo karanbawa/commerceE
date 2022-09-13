@@ -129,7 +129,7 @@ class FormMask extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Form Mask | Skote - React Admin & Dashboard Template</title>
+            <title>Form Mask | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="Forms" breadcrumbItem="Form Mask" />

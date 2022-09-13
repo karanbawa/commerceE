@@ -23,7 +23,7 @@ class FormLayouts extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Form Layouts | Skote - React Admin & Dashboard Template</title>
+            <title>Form Layouts | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="Forms" breadcrumbItem="Form Layouts" />

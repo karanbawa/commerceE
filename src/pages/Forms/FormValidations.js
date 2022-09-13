@@ -91,7 +91,7 @@ class FormValidations extends Component {
         <div className="page-content">
           <MetaTags>
             <title>
-              Form Validation | Skote - React Admin & Dashboard Template
+              Form Validation | Scrollit - React Admin & Dashboard Template
             </title>
           </MetaTags>
           <Container fluid={true}>

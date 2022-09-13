@@ -95,7 +95,7 @@ class EcommerceCheckout extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Checkout | Skote - React Admin & Dashboard Template</title>
+            <title>Checkout | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             {/* Render Breadcrumb */}

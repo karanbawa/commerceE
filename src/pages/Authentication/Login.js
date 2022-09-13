@@ -88,7 +88,7 @@ class Login extends Component {
                       <Col className="col-7">
                         <div className="text-primary p-4">
                           <h5 className="text-primary">Welcome Back !</h5>
-                          <p>Sign in to continue to Skote.</p>
+                          <p>Sign in to continue to Scrollit.</p>
                         </div>
                       </Col>
                       <Col className="col-5 align-self-end">
@@ -132,7 +132,7 @@ class Login extends Component {
                         initialValues={{
                           email:
                             (this.state && this.state.email) ||
-                            "admin@themesbrand.com",
+                            "admin@scrollit.com",
                           password:
                             (this.state && this.state.password) || "123456",
                         }}
@@ -291,8 +291,8 @@ class Login extends Component {
                     </Link>
                   </p>
                   <p>
-                    © {new Date().getFullYear()} Skote. Crafted with
-                    <i className="mdi mdi-heart text-danger" /> by Themesbrand
+                    © {new Date().getFullYear()} Scrollit. Crafted with
+                    <i className="mdi mdi-heart text-danger" /> by Scrollit
                   </p>
                 </div>
               </Col>

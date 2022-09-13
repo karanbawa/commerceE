@@ -71,7 +71,7 @@ export default class index extends Component {
       <React.Fragment>
         <div className="page-content">
         <MetaTags>
-            <title>File Manager | Skote - React Admin & Dashboard Template</title>
+            <title>File Manager | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             <Breadcrumbs title="Apps" breadcrumbItem="File Manager" />

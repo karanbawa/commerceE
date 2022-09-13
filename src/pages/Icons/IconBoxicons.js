@@ -62,7 +62,7 @@ class IconBoxicons extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Boxicons | Skote - React Admin & Dashboard Template</title>
+            <title>Boxicons | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="Icons" breadcrumbItem="Boxicons" />

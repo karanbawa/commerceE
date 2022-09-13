@@ -464,7 +464,7 @@ class FormAdvanced extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Form Advanced | Skote - React Admin & Dashboard Template</title>
+            <title>Form Advanced | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="Forms" breadcrumbItem="Form Advanced" />

@@ -45,7 +45,7 @@ class PagesComingsoon extends Component {
     return (
       <React.Fragment>
           <MetaTags>
-            <title>Coming Soon | Skote - React Admin & Dashboard Template</title>
+            <title>Coming Soon | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
         <div className="home-btn d-none d-sm-block">
           <Link to="/" className="text-white">
@@ -72,7 +72,7 @@ class PagesComingsoon extends Component {
                       </div>
                     </Col>
                   </Row>
-                  <h4 className="mt-5">Let&#39;s get started with Skote</h4>
+                  <h4 className="mt-5">Let&#39;s get started with Scrollit</h4>
                   <p className="text-muted">
                     It will be as simple as Occidental in fact it will be
                     Occidental.

@@ -23,7 +23,7 @@ class BasicTable extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Basic Tables | Skote - React Admin & Dashboard Template</title>
+            <title>Basic Tables | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <div className="container-fluid">
             <Breadcrumbs title="Tables" breadcrumbItem="Basic Tables" />

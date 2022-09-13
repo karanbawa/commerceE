@@ -88,7 +88,7 @@ class ProjectsCreate extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Create New | Skote - React Admin & Dashboard Template</title>
+            <title>Create New | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             {/* Render Breadcrumbs */}

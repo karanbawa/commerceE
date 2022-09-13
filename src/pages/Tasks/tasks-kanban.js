@@ -35,7 +35,7 @@ class TasksKanban extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Kanban Board | Skote - React Admin & Dashboard Template</title>
+            <title>Kanban Board | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             {/* Render Breadcrumbs */}

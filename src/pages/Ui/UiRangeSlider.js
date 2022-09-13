@@ -46,7 +46,7 @@ class UiRangeSlider extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Range Slider | Skote - React Admin & Dashboard Template</title>
+            <title>Range Slider | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="UI Elements" breadcrumbItem="Range Slider" />

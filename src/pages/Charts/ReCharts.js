@@ -25,7 +25,7 @@ class ReCharts extends Component {
                 <React.Fragment>
                     <div className="page-content">
                         <MetaTags>
-                            <title>Re Chart | Skote - React Admin & Dashboard Template</title>
+                            <title>Re Chart | Scrollit - React Admin & Dashboard Template</title>
                         </MetaTags>
                         <div className="container-fluid">
                             <Breadcrumbs title="Charts" breadcrumbItem="Re Chart" />

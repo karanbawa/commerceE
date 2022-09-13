@@ -100,7 +100,7 @@ class CryptoLending extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Lending | Skote - React Admin & Dashboard Template</title>
+            <title>Lending | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             {/* Render Breadcrumb */}

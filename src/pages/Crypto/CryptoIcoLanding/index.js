@@ -44,7 +44,7 @@ class CryptoIcoLanding extends Component {
       <React.Fragment>
       {/* add meta title */}
           <MetaTags>
-            <title>ICO Landing | Skote - React Admin & Dashboard Template</title>
+            <title>ICO Landing | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
         {/* import navbar */}
         <Navbar navClass={this.state.navClass} imglight={this.state.imglight} />

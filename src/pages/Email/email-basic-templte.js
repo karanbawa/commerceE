@@ -13,7 +13,7 @@ export default class EmailBasicTemplte extends Component {
         <div className="page-content">
           {/* add meta title */}
           <MetaTags>
-            <title>Basic Action | Skote - React Admin & Dashboard Template</title>
+            <title>Basic Action | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <div className="container-fluid">
             <Breadcrumbs title="Email Template" breadcrumbItem="Basic Action" />
@@ -284,7 +284,7 @@ export default class EmailBasicTemplte extends Component {
                                           }}
                                           valign="top"
                                         >
-                                          <b>Skote</b>
+                                          <b>Scrollit</b>
                                           <p>Support Team</p>
                                         </td>
                                       </tr>
@@ -312,7 +312,7 @@ export default class EmailBasicTemplte extends Component {
                                           }}
                                           valign="top"
                                         >
-                                          © {new Date().getFullYear()} Skote
+                                          © {new Date().getFullYear()} Scrollit
                                         </td>
                                       </tr>
                                     </tbody>

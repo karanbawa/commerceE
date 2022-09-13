@@ -206,7 +206,7 @@ class UiTabsAccordions extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Tabs & Accordions | Skote - React Admin & Dashboard Template</title>
+            <title>Tabs & Accordions | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs

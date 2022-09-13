@@ -31,7 +31,7 @@ class FormEditors extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Form Editors | Skote - React Admin & Dashboard Template</title>
+            <title>Form Editors | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="Forms" breadcrumbItem="Form Editors" />

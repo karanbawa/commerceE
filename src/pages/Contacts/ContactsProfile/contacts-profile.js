@@ -59,7 +59,7 @@ class ContactsProfile extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Profile | Skote - React Admin & Dashboard Template</title>
+            <title>Profile | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             {/* Render Breadcrumbs */}

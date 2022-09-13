@@ -24,7 +24,7 @@ class UiTypography extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Typography | Skote - React Admin & Dashboard Template</title>
+            <title>Typography | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="UI Elements" breadcrumbItem="Typography" />

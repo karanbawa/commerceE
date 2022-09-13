@@ -34,7 +34,7 @@ class UiImages extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Images | Skote - React Admin & Dashboard Template</title>
+            <title>Images | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="UI Elements" breadcrumbItem="Images" />
@@ -52,7 +52,7 @@ class UiImages extends Component {
                       <Col md={6}>
                         <img
                           className="rounded me-2"
-                          alt="Skote"
+                          alt="Scrollit"
                           width="200"
                           src={img4}
                         />
@@ -61,7 +61,7 @@ class UiImages extends Component {
                         <div className="mt-4 mt-md-0">
                           <img
                             className="rounded-circle avatar-xl"
-                            alt="Skote"
+                            alt="Scrollit"
                             src={avatar4}
                           />
                         </div>
@@ -81,7 +81,7 @@ class UiImages extends Component {
                       <Col md={6}>
                         <img
                           className="img-thumbnail"
-                          alt="Skote"
+                          alt="Scrollit"
                           width="200"
                           src={img3}
                         />
@@ -90,7 +90,7 @@ class UiImages extends Component {
                         <div className="mt-4 mt-md-0">
                           <img
                             className="img-thumbnail rounded-circle avatar-xl"
-                            alt="Skote"
+                            alt="Scrollit"
                             src={avatar3}
                           />
                         </div>
@@ -134,7 +134,7 @@ class UiImages extends Component {
                           <Col lg={4}>
                             <CardImg
                               src={avatar3}
-                              alt="SkoteSkote"
+                              alt="ScrollitScrollit"
                               className="rounded avatar-sm"
                             />
                             <CardText className="mt-2 mb-lg-0">
@@ -144,7 +144,7 @@ class UiImages extends Component {
                           <Col lg={4}>
                             <CardImg
                               src={avatar4}
-                              alt="Skote"
+                              alt="Scrollit"
                               className="rounded avatar-md"
                             />
                             <CardText className="mt-2  mb-lg-0">
@@ -154,7 +154,7 @@ class UiImages extends Component {
                           <Col lg={4}>
                             <CardImg
                               src={avatar5}
-                              alt="Skote"
+                              alt="Scrollit"
                               className="rounded avatar-lg"
                             />
                             <CardText className="mt-2 mb-lg-0">
@@ -168,7 +168,7 @@ class UiImages extends Component {
                           <Col lg={4}>
                             <CardImg
                               src={avatar3}
-                              alt="Skote"
+                              alt="Scrollit"
                               className="rounded-circle avatar-sm"
                             />
                             <CardText className="mt-2 mb-lg-0">
@@ -188,7 +188,7 @@ class UiImages extends Component {
                           <Col lg={4}>
                             <CardImg
                               src={avatar5}
-                              alt="Skote"
+                              alt="Scrollit"
                               className="rounded-circle avatar-lg"
                             />
                             <CardText className="mt-2 mb-lg-0">

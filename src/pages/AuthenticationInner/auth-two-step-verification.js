@@ -29,7 +29,7 @@ export default class TwostepVerification extends Component {
       <React.Fragment>
         <div className="account-pages my-5 pt-sm-5">
           <MetaTags>
-            <title>Two Step Verification | Skote - React Admin & Dashboard Template</title>
+            <title>Two Step Verification | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container>
             <Row>
@@ -127,8 +127,8 @@ export default class TwostepVerification extends Component {
                     </Link>{" "}
                   </p>
                   <p>
-                    © {new Date().getFullYear()} Skote. Crafted with{" "}
-                    <i className="mdi mdi-heart text-danger"></i> by Themesbrand
+                    © {new Date().getFullYear()} Scrollit. Crafted with{" "}
+                    <i className="mdi mdi-heart text-danger"></i> by Scrollit
                   </p>
                 </div>
               </Col>

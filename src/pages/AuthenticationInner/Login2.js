@@ -18,7 +18,7 @@ class Login2 extends Component {
       <React.Fragment>
         <div>
           <MetaTags>
-            <title>Login 2 | Skote - React Admin & Dashboard Template</title>
+            <title>Login 2 | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid className="p-0">
             <Row className="g-0">
@@ -49,7 +49,7 @@ class Login2 extends Component {
                         <div>
                           <h5 className="text-primary">Welcome Back !</h5>
                           <p className="text-muted">
-                            Sign in to continue to Skote.
+                            Sign in to continue to Scrollit.
                           </p>
                         </div>
 
@@ -210,9 +210,9 @@ class Login2 extends Component {
 
                       <div className="mt-4 mt-md-5 text-center">
                         <p className="mb-0">
-                          © {new Date().getFullYear()} Skote. Crafted with{" "}
+                          © {new Date().getFullYear()} Scrollit. Crafted with{" "}
                           <i className="mdi mdi-heart text-danger"></i> by
-                          Themesbrand
+                          Scrollit
                         </p>
                       </div>
                     </div>

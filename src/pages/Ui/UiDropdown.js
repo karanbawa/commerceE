@@ -29,7 +29,7 @@ class UiDropdown extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Dropdowns | Skote - React Admin & Dashboard Template</title>
+            <title>Dropdowns | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="UI Elements" breadcrumbItem="Dropdowns" />

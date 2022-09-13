@@ -26,7 +26,7 @@ class InvoicesList extends Component {
         <div className="page-content">
          {/* add meta title */}
          <MetaTags>
-            <title>Invoice List | Skote - React Admin & Dashboard Template</title>
+            <title>Invoice List | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             {/* Render Breadcrumbs */}

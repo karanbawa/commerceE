@@ -32,7 +32,7 @@ class MapsGoogle extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Google Maps | Skote - React Admin & Dashboard Template</title>
+            <title>Google Maps | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <div className="container-fluid">
             <Breadcrumbs title="Maps" breadcrumbItem="Google Maps" />

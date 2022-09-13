@@ -24,7 +24,7 @@ class UiProgressbar extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Progress Bars | Skote - React Admin & Dashboard Template</title>
+            <title>Progress Bars | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="UI Elements" breadcrumbItem="Progress Bars" />

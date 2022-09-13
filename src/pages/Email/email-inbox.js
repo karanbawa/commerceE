@@ -107,7 +107,7 @@ class EmailInbox extends Component {
         <div className="page-content">
           {/* add meta title */}
           <MetaTags>
-            <title>Inbox | Skote - React Admin & Dashboard Template</title>
+            <title>Inbox | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             {/* Render Breadcrumbs */}
@@ -242,7 +242,7 @@ class EmailInbox extends Component {
                       <img
                         className="d-flex me-3 rounded-circle"
                         src={avatar2}
-                        alt="skote"
+                        alt="scrollit"
                         height="36"
                       />
                       <Media className="chat-user-box" body>
@@ -255,7 +255,7 @@ class EmailInbox extends Component {
                       <img
                         className="d-flex me-3 rounded-circle"
                         src={avatar3}
-                        alt="skote"
+                        alt="scrollit"
                         height="36"
                       />
                       <Media className="chat-user-box" body>
@@ -268,7 +268,7 @@ class EmailInbox extends Component {
                       <img
                         className="d-flex me-3 rounded-circle"
                         src={avatar4}
-                        alt="skote"
+                        alt="scrollit"
                         height="36"
                       />
                       <Media className="chat-user-box" body>
@@ -281,7 +281,7 @@ class EmailInbox extends Component {
                       <img
                         className="d-flex me-3 rounded-circle"
                         src={avatar6}
-                        alt="skote"
+                        alt="scrollit"
                         height="36"
                       />
                       <Media className="chat-user-box" body>

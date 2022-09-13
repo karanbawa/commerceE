@@ -41,7 +41,7 @@ class UiCards extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Cards | Skote - React Admin & Dashboard Template</title>
+            <title>Cards | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="UI Elements" breadcrumbItem="Cards" />
@@ -49,7 +49,7 @@ class UiCards extends Component {
             <Row>
               <Col md={6} xl={3}>
                 <Card>
-                  <CardImg top className="img-fluid" src={img1} alt="Skote" />
+                  <CardImg top className="img-fluid" src={img1} alt="Scrollit" />
                   <CardBody>
                     <CardTitle className="h4 mt-0">Card title</CardTitle>
                     <CardText>
@@ -67,7 +67,7 @@ class UiCards extends Component {
               </Col>
               <Col mg={6} xl={3}>
                 <Card>
-                  <CardImg top className="img-fluid" src={img2} alt="Skote" />
+                  <CardImg top className="img-fluid" src={img2} alt="Scrollit" />
                   <CardBody>
                     <CardTitle className="h4 mt-0">Card title</CardTitle>
                     <CardText>
@@ -92,7 +92,7 @@ class UiCards extends Component {
 
               <Col mg={6} xl={3}>
                 <Card>
-                  <CardImg top className="img-fluid" src={img3} alt="Skote" />
+                  <CardImg top className="img-fluid" src={img3} alt="Scrollit" />
                   <CardBody>
                     <CardText>
                       Some quick example text to build on the card title and
@@ -109,7 +109,7 @@ class UiCards extends Component {
                       Support card subtitle
                     </p>
                   </CardBody>
-                  <CardImg className="img-fluid" src={img4} alt="Skote" />
+                  <CardImg className="img-fluid" src={img4} alt="Scrollit" />
                   <CardBody>
                     <CardText>
                       Some quick example text to build on the card title and
@@ -282,7 +282,7 @@ class UiCards extends Component {
             <Row>
               <Col lg={4}>
                 <Card>
-                  <CardImg top className="img-fluid" src={img5} alt="Skote" />
+                  <CardImg top className="img-fluid" src={img5} alt="Scrollit" />
                   <CardBody>
                     <CardTitle className="mt-0">Card title</CardTitle>
                     <CardText>
@@ -318,14 +318,14 @@ class UiCards extends Component {
                     bottom
                     className="img-fluid"
                     src={img7}
-                    alt="Skote"
+                    alt="Scrollit"
                   />
                 </Card>
               </Col>
 
               <Col lg={4}>
                 <Card>
-                  <CardImg className="img-fluid" src={img6} alt="Skote" />
+                  <CardImg className="img-fluid" src={img6} alt="Scrollit" />
                   <CardImgOverlay>
                     <CardTitle className="text-white mt-0">
                       Card title
@@ -350,7 +350,7 @@ class UiCards extends Component {
                 <Card>
                   <Row className="no-gutters align-items-center">
                     <Col md={4}>
-                      <CardImg className="img-fluid" src={img2} alt="Skote" />
+                      <CardImg className="img-fluid" src={img2} alt="Scrollit" />
                     </Col>
                     <Col md={8}>
                       <CardBody>
@@ -387,7 +387,7 @@ class UiCards extends Component {
                       </CardBody>
                     </Col>
                     <Col md={4}>
-                      <CardImg className="img-fluid" src={img3} alt="Skote" />
+                      <CardImg className="img-fluid" src={img3} alt="Scrollit" />
                     </Col>
                   </Row>
                 </Card>
@@ -546,7 +546,7 @@ class UiCards extends Component {
                 <CardDeck className="card-deck-wrapper">
                   <div className="card-group">
                     <Card className="mb-4">
-                      <CardImg top className="img-fluid" src={img4} alt="Skote" />
+                      <CardImg top className="img-fluid" src={img4} alt="Scrollit" />
                       <CardBody>
                         <CardTitle className="mt-0">Card title</CardTitle>
                         <CardText>
@@ -562,7 +562,7 @@ class UiCards extends Component {
                       </CardBody>
                     </Card>
                     <Card className="mb-4">
-                      <CardImg top className="img-fluid" src={img5} alt="Skote" />
+                      <CardImg top className="img-fluid" src={img5} alt="Scrollit" />
                       <CardBody>
                         <CardTitle className="mt-0">Card title</CardTitle>
                         <CardText>
@@ -577,7 +577,7 @@ class UiCards extends Component {
                       </CardBody>
                     </Card>
                     <Card className="mb-4">
-                      <CardImg top className="img-fluid" src={img6} alt="Skote" />
+                      <CardImg top className="img-fluid" src={img6} alt="Scrollit" />
                       <CardBody>
                         <CardTitle className="mt-0">Card title</CardTitle>
                         <CardText>
@@ -603,7 +603,7 @@ class UiCards extends Component {
                 <h4 className="my-3">Cards Masonry</h4>
                 <CardColumns>
                   <Card>
-                    <CardImg top src={img3} alt="Skote" />
+                    <CardImg top src={img3} alt="Scrollit" />
                     <CardBody>
                       <CardTitle className="h5">Card title that wraps to a new line</CardTitle>
                       <CardText>
@@ -630,7 +630,7 @@ class UiCards extends Component {
                     </CardBody>
                   </Card>
                   <Card>
-                    <CardImg top src={img5} alt="Skote" />
+                    <CardImg top src={img5} alt="Scrollit" />
                     <CardBody>
                       <CardTitle className="h5">Card title</CardTitle>
                       <CardText>
@@ -673,7 +673,7 @@ class UiCards extends Component {
                     </CardBody>
                   </Card>
                   <Card>
-                    <CardImg top src={img7} alt="Skote" />
+                    <CardImg top src={img7} alt="Scrollit" />
                   </Card>
                   <Card className="p-3 text-end">
                     <blockquote className="blockquote mb-0">

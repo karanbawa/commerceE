@@ -134,7 +134,7 @@ class UiNotifications extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Notifications | Skote - React Admin & Dashboard Template</title>
+            <title>Notifications | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="UI Elements" breadcrumbItem="Notifications" />

@@ -105,7 +105,7 @@ class Dashboard extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Dashboard | Skote - React Admin & Dashboard Template</title> 
+            <title>Dashboard | Scrollit - React Admin & Dashboard Template</title> 
           </MetaTags>
           <Container fluid>
             {/* Render Breadcrumb */}

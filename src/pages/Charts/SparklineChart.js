@@ -24,7 +24,7 @@ class SparklineChart extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Sparkline Chart | Skote - React Admin & Dashboard Template</title>
+            <title>Sparkline Chart | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <div className="container-fluid">
             {/* Render Breadcrumb */}

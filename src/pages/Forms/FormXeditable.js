@@ -36,7 +36,7 @@ class FormXeditable extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Form Xeditable | Skote - React Admin & Dashboard Template</title>
+            <title>Form Xeditable | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid={true}>
             <Breadcrumbs title="Forms" breadcrumbItem="Form Xeditable" />

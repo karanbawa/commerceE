@@ -47,7 +47,7 @@ class ProjectsGrid extends Component {
       <React.Fragment>
         <div className="page-content">
           <MetaTags>
-            <title>Projects Grid | Skote - React Admin & Dashboard Template</title>
+            <title>Projects Grid | Scrollit - React Admin & Dashboard Template</title>
           </MetaTags>
           <Container fluid>
             {/* Render Breadcrumbs */}
